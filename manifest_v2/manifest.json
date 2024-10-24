@@ -1,7 +1,7 @@
 {
     "name": "No Ad C:",
     "description": "This is adremover",
-    "version": "0.4",
+    "version": "Work.Easy.AdBlocker",
     "manifest_version": 2,
     "icons": {
         "32": "/images/icon32.png",
